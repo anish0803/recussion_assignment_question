@@ -1,4 +1,4 @@
-// ---------Find the nth digit of the fibonacci series----------
+// ---------Find the 10th digit of the fibonacci series----------
 
 function fibo (first,second,counter){
     if(counter<10){
